@@ -1,5 +1,5 @@
 {
-  "name": "Yukki Music Bot",
+  "name": "Kyura Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
@@ -60,7 +60,7 @@
     },
     "OWNER_ID": {
       "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-      "value": "",
+      "value": "2122261901",
       "required": true
     },
     "START_IMG_URL": {
@@ -120,7 +120,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/NotReallyShikhar/YukkiMusicBot",
+      "value": "https://github.com/Kyuraxp/kyuraxmusic",
       "required": true
     },
     "UPSTREAM_BRANCH": {
