@@ -44,7 +44,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Also without customizing or modifying as your own choice, this must be
 # filled with Kyura Music Bot Main Repository URL in value.
 UPSTREAM_REPO = getenv(
-    "UPSTREAM_REPO", "https://github.com/NotReallyShikhar/YukkiMusicBot"
+    "UPSTREAM_REPO", "https://github.com/Kyuraxp/kyuraxmusic"
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -65,6 +65,8 @@ else:
 
 # You'll need a Private Group for this.
 # Add @MissRose_Bot in your Private Group from Add Member > Search "@MissRose_Bot" and then Add.
+
+SUP_GROUP = getenv("SUP_GROUP", None)
 
 # After added, Just type "/id" in the chat.
 # You'll get the ID of your group.
