@@ -9,7 +9,7 @@ from Yukki import (
     SUDOERS, 
     app, 
 )
-from config import SUP_GROUP
+from config import SUPPORT_GROUP
 
 def get_text(message) -> [None, str]:
     text_to_return = message.text
