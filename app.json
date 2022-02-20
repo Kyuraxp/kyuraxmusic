@@ -116,7 +116,7 @@
     "LOG_SESSION": {
       "description": "A Pyrogram String Session for LOGGING or u can also add STRING_SESSION1 Also.",
       "value": "",
-      "required": true
+      "required": false
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
