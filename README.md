@@ -4,7 +4,7 @@
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/KyuraexRobot"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/KyuraxRobot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
     <a href="https://t.me/kyuraprojects"> Support Channel </a> •
     <a href="https://t.me/kyuraSupport"> Support Chat </a> 
